@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/giuglielmocappellini/Projects/pinns_wave/sig50_C10/sig50_C10-40000.ckpt"
+all_model_checkpoint_paths: "/home/giuglielmocappellini/Projects/pinns_wave/sig50_C10/sig50_C10-40000.ckpt"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/giuliofedeli/Downloads/ProjectSoftMaterial/pinns_membrane_force/model-20000.ckpt"
+all_model_checkpoint_paths: "/Users/giuliofedeli/Downloads/ProjectSoftMaterial/pinns_membrane_force/model-20000.ckpt"

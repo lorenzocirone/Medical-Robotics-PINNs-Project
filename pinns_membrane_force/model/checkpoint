@@ -1,0 +1,2 @@
+model_checkpoint_path: "/root/Users/alien/Documents/GCappellini/PhD/progetti/code/wave/students/pinns_string_force/model-20000.ckpt"
+all_model_checkpoint_paths: "/root/Users/alien/Documents/GCappellini/PhD/progetti/code/wave/students/pinns_string_force/model-20000.ckpt"

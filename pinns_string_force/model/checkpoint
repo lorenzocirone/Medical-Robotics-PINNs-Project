@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/giuliofedeli/Downloads/ProjectSoftMaterial/pinns_string_force/model/pinns_string_force-20000.ckpt"
+all_model_checkpoint_paths: "/Users/giuliofedeli/Downloads/ProjectSoftMaterial/pinns_string_force/model/pinns_string_force-20000.ckpt"
